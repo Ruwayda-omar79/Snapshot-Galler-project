@@ -21,6 +21,5 @@ To run the snapshot application locally, follow these steps:S Clone the reposito
  Navigate to the project's root directory: cd Snapshott && npm install Start the development server: npm run dev Open the application in your browser at  http://localhost:5180/.
 
 Deployment Deployment
- The snapshot application is deployed on Vercel website and can be accessed at the following URL : https://snapshop1-44rq.vercel.app/
-
+ The snapshot application is deployed on Vercel website and can be accessed at the following URL : https://snapshot-galler-project-gcva.vercel.app/
 
