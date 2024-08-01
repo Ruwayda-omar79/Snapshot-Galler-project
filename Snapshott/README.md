@@ -17,7 +17,7 @@ env for Api
 
 Getting Started 
 
-To run the snapshot application locally, follow these steps:S Clone the repository: git clone:https://github.com/Ruwayda-omar79/snapshop1.git
+To run the snapshot application locally, follow these steps:S Clone the repository: git clone:https://github.com/Ruwayda-omar79/Snapshot-Galler-project
  Navigate to the project's root directory: cd Snapshott && npm install Start the development server: npm run dev Open the application in your browser at  http://localhost:5180/.
 
 Deployment Deployment
